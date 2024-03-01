@@ -1,11 +1,5 @@
-.pacifico-regular {
-  font-family: "Pacifico", cursive;
-  font-weight: 400;
-  font-style: normal;
-}
 body {
-        color: #555555;
-        background-color: #ffffff;
+	background: pink;
 	margin: 0;
 	font-family: "Pacifico", cursive;
 
@@ -14,8 +8,10 @@ body {
 }
 
 
-
-
+*,
+*:before,
+*:after {
+	-webkit-box-sizing: border-box;
 }
 
 .container {
