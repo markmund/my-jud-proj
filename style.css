@@ -1,0 +1,21 @@
+body {
+	background: pink;
+	margin: 0;
+	font-family: "Pacifico", cursive;
+
+	font-size: 40px;
+	line-height: 1.6;
+}
+
+
+*,
+*:before,
+*:after {
+	-webkit-box-sizing: border-box;
+}
+
+.container {
+	width: 100%;
+	max-width: 1200px;
+	margin: 0 auto;
+}
